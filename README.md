@@ -11,25 +11,14 @@ and to face challenges and learn from my mistake and make the effort to be in a 
 2. Embrace the challenges
 3. keep the hard work for higher goals and achievement
 
-##Features of Markdown :
+### benefit from a growth mindset
 
-* can add Headers 
-  #### Headers
-
-* can add a link  [twitter](www.twitter.com)
-* can make tables 
- 
-First Header | Second Header
+higher motivation |  improve yourself
 ------------ | -------------
-Content | Content
-Content | Content 
+take opportunities | handle stressful situations
 
-* can add lists of 
-  
-  Unordered 
-  * First
-  * Secend
-  
-  Ordered   1. First 1. Second
-  
-* Can Share images ![Twitter Logo](https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png)
+## Research into growth mindset
+- [The Research](https://www.mindsetworks.com/science/)
+
+## Difference between fixed mindset and growth mindset 
+![fixed mindset and growth mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
