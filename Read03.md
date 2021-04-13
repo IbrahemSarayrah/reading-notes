@@ -51,9 +51,9 @@ Tags act like containers, as they tell information about what inside them
 
 > <section>
 
-* Heading Groups to group a set of one or more <h1> to <h6>
+* Heading Groups to group a set of one or more h1 to h6
 
-> <hgroup>
+>  <hgroup>
 
 * Figures It can be used to contain any content that is referenced from the main articles
 
