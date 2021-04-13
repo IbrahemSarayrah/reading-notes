@@ -5,5 +5,5 @@
 | read        | link |
 | ----------- | ----------- |
 | growth      | [growth mindet](GrowthMindset.md)    |
-| Read01   | [Read01](Read01)      |
-| Read02   | [Read02](Read02)       |
+| Read01   | [Read01](Read01.md)      |
+| Read02   | [Read02](Read02.md)       |
