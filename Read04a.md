@@ -4,7 +4,7 @@
 * The CSS is the design for the HTML and state how content is presented `(THE PRESENTATION LAYER)`
 * The JAVASCRIPT will add interactivity to the web page `(BEHAVIOR LAYER)`
 
-> #### JavaScript is written in plain text Like HTML AND CSS #### with **.js** file extension
+> #### JavaScript is written in plain text Like HTML AND CSS with **.js** file extension
 
 ### - **Linking a JavaScript From HTML page we use `<script>` element** to tell the browser its a JavaScript.
 
