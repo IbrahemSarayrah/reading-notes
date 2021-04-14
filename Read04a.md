@@ -1,4 +1,4 @@
-#JAVASCRIPT
+# JAVASCRIPT
 ### How JAVASCRIPT and HTML AND CSS fit TOGETHER
 * The HTML gives the page structure  `(THE CONTENT LAYER)`
 * The CSS is the design for the HTML and state how content is presented `(THE PRESENTATION LAYER)`
