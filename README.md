@@ -11,3 +11,4 @@
 | Read04a   | [Read04a](Read04a.md)    |
 | Read04b   | [Read04b](Read04b.md)    |
 | Read05    | [Read05](Read05.md)     |
+| Read06    | [Read06](Read06.md)     |
