@@ -1,6 +1,6 @@
 # Javascript
 
-* ** the javascript make the web pages more interactive** we can use javascript in:
+* **the javascript make the web pages more interactive** we can use javascript in:
 
 * we can select any element, attributes, text on html using javascript for example `Select the text inside all of the <hl> elements on a page`
 
