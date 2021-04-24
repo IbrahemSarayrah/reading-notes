@@ -1,5 +1,7 @@
 **My name is Ibrahim Sarayrah, I'm a marketing graduate I'm excited to change my career to programming and become a full stack developer**
-# Code **`102`** Reading Notes
+
+# Code 102 Reading Notes
+
 | read        | link |
 | ----------- | ----------- |
 | growth      | [growth mindet](GrowthMindset.md)    |
@@ -13,7 +15,8 @@
 | Read07    | [Read07](Read07.md)     |
 | Read09    | [Read09](Read09.md)     |
 
-# Code **`201`** Reading Notes
+# Code 201 Reading Notes
+
 | read        | link |
 | ----------- | ----------- |
 |   Class01   | [Class01](Class01.md)    |
