@@ -10,7 +10,7 @@
 ```
 <ol>
 <li>first</li>
-<li>seconed</li>
+<li>second</li>
 <li>third</li>
 </ol>
 ```
@@ -29,7 +29,7 @@
 ```
 <ul>
 <li>first</li>
-<li>seconed</li>
+<li>second</li>
 <li>third</li>
 </ul>
 ```
@@ -80,7 +80,7 @@
 * we can specify the color of a border using either RGB values, hex codes or CSS color names
 * we can center any content in the `HTML` using `CSS` for example :
 > center a box using the left-margin and right-margin to auto.
-* we can use `display`y property allows you to turn an inline element into a block-level or block-level to inline
+* we can use `display` property allows you to turn an inline element into a block-level or block-level to inline
 
 * CSS3 has introduced the ability to create image borders and rounded borders.
 
@@ -98,7 +98,7 @@
 
 ## SWITCH STATEMENTS
 
-* the if... else statment check a condition if it true will run the first code block if it false will run the second code block 
+* the if... else statement check a condition if it true will run the first code block if it false will run the second code block 
 
 ![if else statment](https://cdn.programiz.com/sites/tutorial2program/files/js-if-else-if-statement_0.png)
 
@@ -122,15 +122,15 @@ but they return the value that stopped the processing **not necessarily true or 
 
 ## LOOPS
 
-> loops will check condition if it returns true a code block will run then the condtion will be checked again and will run the code block
+> loops will check condition if it returns true a code block will run then the condition will be checked again and will run the code block
 again if its true and will not stop until the condition will returns a false
 
-* tybe of loops
+* type of loops
 
 1. `FOR` to run the code for a specific number of time
 2. `WHILE` dont know how many times to run the code and will run as long the condition is true
-3. `DO WHILE` its the same as *WHILE* loop but the difference it will always run the statments inside the curly bracket at lease one time
+3. `DO WHILE` its the same as *WHILE* loop but the difference it will always run the statements inside the curly bracket at lease one time
 
-* Loop counters to run the code for a specifid number of times 
+* Loop counters to run the code for a specified number of times 
 
 ![loop](https://media.geeksforgeeks.org/wp-content/uploads/Loop1.png)
