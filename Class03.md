@@ -4,15 +4,17 @@
 * Ordered lists
 > ordered list is created with the `<ol>` element and use number for the list
 > every item is placed in a list with opening tag `<li>` and closing tag `</li>`
+
 #### example
+
 ```
 <ol>
 <li>first</li>
 <li>seconed</li>
 <li>third</li>
 </ol>
-
 ```
+
 > and the result
 > 1. first 
 > 2. second
@@ -21,6 +23,7 @@
 * Unordered lists
 > unordered list is created with the `<ul>` element and use bullets for the list
 > every item is placed in a list with opening tag `<li>` and closing tag `</li>`
+
 #### example
 
 ```
@@ -29,7 +32,6 @@
 <li>seconed</li>
 <li>third</li>
 </ul>
-
 ```
 > and the result
 > * first 
@@ -102,6 +104,7 @@
 
 * switch statement starts with a variable called the `switch value`. Each case indicates a possible value for this variable and the
 code that should run if the variable matches that value.
+
 ![switch statment](https://www.theengineeringprojects.com/wp-content/uploads/2020/01/Switch-Statment-in-JavaScript-1.jpg)
 
 * the purpose of the switch statement is to present the user with a different message depending on which level they are at
