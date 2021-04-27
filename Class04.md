@@ -6,8 +6,8 @@
 
 ## How to write links :
 
-* we use the <a> element the user can clock between the opening `<a>` tag  and the closing tag `</a> and specify which page the link go to
-using the `href` attribute
+* we use the <a> element the user can clock between the opening `<a>` tag  and the closing tag `</a>` and specify which page the link go to
+using the **href attribute**
 
 ![a-element](https://www.computerhope.com/jargon/h/html-tag.gif)
 
