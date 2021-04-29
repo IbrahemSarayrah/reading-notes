@@ -129,7 +129,7 @@ color, although it may also be shown as a slider with values from 0 to 360.
 2. lowercase
 3. capitalize
 
-* The 1text-decoration1 property allows to specify :
+* The `text-decoration` property allows to specify :
 1. `none` removes any decoration already applied to the text
 2. `underline` adds a line underneath the text
 3. `overline` adds a line over the top of the text
