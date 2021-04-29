@@ -55,7 +55,7 @@ it will help to organize the web site
 ## Color 
 
 
-* ** The color property allows us to choose the text color inside an element in three ways**
+* **The color property allows us to choose the text color inside an element in three ways**
 1. RGB Values
   **RGB stand for RED GREEN BLUE**
 color can be set of how much red and green and blue are used to make the color example `rgb(100,100,90)`
