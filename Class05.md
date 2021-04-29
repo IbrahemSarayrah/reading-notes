@@ -79,7 +79,7 @@ the background for that box**
 
 * **every color on a screen is created by mixing of red,green,blue**
 
-* **computer monitors are made of pixels and every pixels color is mix of red,green,blue
+* **computer monitors are made of pixels and every pixels color is mix of red,green,blue**
 
 ### Opacity
 
