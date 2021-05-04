@@ -27,7 +27,7 @@
 |   Class06   | [Class06](Class06.md)    |
 |   Class07   | [Class07](Class07.md)    |
 |   Class08   | [Class08](Class08.md)    |
-|   Class   | [Class](Class.md)    |
+|   Class09   | [Class09](Class09.md)    |
 |   Class   | [Class](Class.md)    |
 |   Class   | [Class](Class.md)    |
 |   Class   | [Class](Class.md)    |
