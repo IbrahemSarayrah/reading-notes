@@ -22,14 +22,14 @@ cannot complete until another statement or function has been run
 
 #### Error objects :  can help to find where are the mistakes and browsers have tools to help you read them
 
-* When an Er ror object is created, it will contain the following properties
+* When an Error object is created, it will contain the following properties
 
 | PROPERTY      | DESCRIPTION |
 | ----------- | ----------- |
 | name        |Type of execution |
 | message   | Description       |
 | file Number   | Name of the JavaScript file    |
-| line neNumber    | Line number of error       |
+| line Number    | Line number of error       |
 
 * There are seven types of built-in error objects in JavaScript 
 
@@ -37,8 +37,8 @@ cannot complete until another statement or function has been run
 | ----------- | ----------- |
 | Error        |Generic error - the other errorsare all based upon this error |
 | Syntax Error  |Syntax has not been followed |
-| Ref erenceError   |Tried to reference a variable that isnot declared/within scope   |
-| TypeError  |An unexpected data type thatcannot be coerced |
+| ReferenceError   |Tried to reference a variable that isnot declared/within scope   |
+| TypeError  |An unexpected data type that cannot be coerced |
 | Range Error   |Numbers not in acceptable range  |
 |URI Error       |encodeURI ().decodeURI(),and similar methods used incorrectly |
 |EvalError        |eval () function used incorrectly |
