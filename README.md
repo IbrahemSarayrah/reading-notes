@@ -29,9 +29,8 @@
 |   Class08   | [Class08](Class08.md)    |
 |   Class09   | [Class09](Class09.md)    |
 |   Class10   | [Class10](Class10.md)    |
+|   Class11   | [Class11](Class11.md)    |
 |   Class   | [Class](Class.md)    |
 |   Class   | [Class](Class.md)    |
 |   Class   | [Class](Class.md)    |
 |   Class   | [Class](Class.md)    |
-|   Class   | [Class](Class.md)    |
-
