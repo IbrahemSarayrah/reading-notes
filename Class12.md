@@ -1,4 +1,4 @@
-# Creat Charts with CHART.JS
+# Create Charts with CHART.JS
 
 * Charts are better for displaying data
 * They’re easier to look at and convey data quickly
