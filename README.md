@@ -4,16 +4,16 @@
 
 | read        | link |
 | ----------- | ----------- |
-| growth      | [growth mindet](GrowthMindset.md)    |
-| Read01   | [Read01](Read01.md)      |
-| Read02   | [Read02](Read02.md)       |
-| Read03   | [Read03](Read03.md)       |
-| Read04a   | [Read04a](Read04a.md)    |
-| Read04b   | [Read04b](Read04b.md)    |
-| Read05    | [Read05](Read05.md)     |
-| Read06    | [Read06](Read06.md)     |
-| Read07    | [Read07](Read07.md)     |
-| Read09    | [Read09](Read09.md)     |
+| growth      | [growth mindet](GrowthMindset.md)   |
+| Read01      | [Read01](Read01.md)      |
+| Read02      | [Read02](Read02.md)      |
+| Read03      | [Read03](Read03.md)      |
+| Read04a     | [Read04a](Read04a.md)    |
+| Read04b     | [Read04b](Read04b.md)    |
+| Read05      | [Read05](Read05.md)      |
+| Read06      | [Read06](Read06.md)      |
+| Read07      | [Read07](Read07.md)      |
+| Read09      | [Read09](Read09.md)      |
 
 # *Code 201 Reading Notes*
 
@@ -32,5 +32,5 @@
 |   Class11   | [Class11](Class11.md)    |
 |   Class12   | [Class12](Class12.md)    |
 |   Class13   | [Class13](Class13.md)    |
-|   Class14a  | [Class14a](Class14a.md)     |
-|   Class   | [Class](Class.md)    |
+|   Class14a  | [Class14a](Class14a.md)  |
+|   Class14b  | [Class14b](Class14b.md)  |
