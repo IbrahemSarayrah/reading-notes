@@ -1,6 +1,12 @@
+# Reading Notes
+
+___
+
 * **My name is Ibrahim Sarayrah, I'm a marketing graduate I'm excited to change my career to programming and become a full stack developer**
 
-# *Code 102 Reading Notes*
+___
+
+## *Code 102 - Intro to Software Development*
 
 | read        | link |
 | ----------- | ----------- |
@@ -15,7 +21,10 @@
 | Read07      | [Read07](Read07.md)      |
 | Read09      | [Read09](Read09.md)      |
 
-# *Code 201 Reading Notes*
+
+___
+
+## *Code 201 - Foundations of Software Development*
 
 | read        | link |
 | ----------- | ----------- |
@@ -34,3 +43,27 @@
 |   Class13   | [Class13](Class13.md)    |
 |   Class14a  | [Class14a](Class14a.md)  |
 |   Class14b  | [Class14b](Class14b.md)  |
+
+
+
+___
+
+## *Code 301 - Intermediate Software Development*
+
+| read         | link   |
+| -----------  | ----------- |
+|   Class-01   | [Link]()    |
+|   Class-02   | [Link]()    |
+|   Class-03   | [Link]()    |
+|   Class-04   | [Link]()    |
+|   Class-05   | [Link]()    |
+|   Class-06   | [Link]()    |
+|   Class-07   | [Link]()    |
+|   Class-08   | [Link]()    |
+|   Class-09   | [Link]()    |
+|   Class-10   | [Link]()    |
+|   Class-11   | [Link]()    |
+|   Class-12   | [Link]()    |
+|   Class-13   | [Link]()    |
+|   Class-14   | [Link]()    |
+|   Class-15   | [Link]()    |
