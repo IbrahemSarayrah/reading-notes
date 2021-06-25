@@ -52,7 +52,7 @@ ___
 
 | read         | link   |
 | -----------  | ----------- |
-|   Class-01   | [Link]()    |
+|   Class-01   | [Link](Class-01.md) |
 |   Class-02   | [Link]()    |
 |   Class-03   | [Link]()    |
 |   Class-04   | [Link]()    |
