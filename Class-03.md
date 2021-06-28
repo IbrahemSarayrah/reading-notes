@@ -6,13 +6,9 @@
 
 * for example
 
-```
-const numbers = [1, 2, 3, 4, 5];
-const listItems = numbers.map((number) =>
-  <li>{number}</li>
-);
-
-```
+> `const numbers = [1, 2, 3, 4, 5];`
+> `const listItems = numbers.map((number) =>`
+> `<li>{number}</li>`
 
 * we loop through the **numbers** array using the JavaScript **map()** function. We return a `<li>` element for
 each item. and we assign the resulting array of elements to listItems.
@@ -32,7 +28,7 @@ inside the array to give the elements a stable identity.
 * The spread operator is a useful and quick syntax for adding items to arrays, combining arrays or objects, and spreading an
 array out into a function’s arguments.
 
-#### List 4 things that the spread operator can do.
+#### List 4 things that the spread operator can do
 
 1. Copying an array
 
@@ -42,37 +38,27 @@ array out into a function’s arguments.
 
 4. Using an array as arguments
 
-#### Give an example of using the spread operator to combine two arrays.
+#### Give an example of using the spread operator to combine two arrays
 
-```
-const myArray = [`1`,`2`,`3`]
-const yourArray = [`4`,`5`,`6`]
-const ourArray = [...myArray,...yourArray]
-console.log(...ourArray) // 1 2 3 4 5 6
+> `const myArray = [`1`,`2`,`3`]`
+> `const yourArray = [`4`,`5`,`6`]`
+> `const ourArray = [...myArray,...yourArray]`
+> `console.log(...ourArray) // 1 2 3 4 5 6`
 
-```
+#### Give an example of using the spread operator to add a new item to an array
 
-#### Give an example of using the spread operator to add a new item to an array.
+> `const fewFruit = ['A','B','C']`
+> `const fewMoreFruit = ['1', '2', ...fewFruit]`
+> `console.log(fewMoreFruit) //  Array(5) [ "1", "2", "A", "B", "C" ]`
 
-```
-const fewFruit = ['A','B','C']
-const fewMoreFruit = ['1', '2', ...fewFruit]
-console.log(fewMoreFruit) //  Array(5) [ "1", "2", "A", "B", "C" ]
+#### Give an example of using the spread operator to combine two objects into one
 
-```
-
-#### Give an example of using the spread operator to combine two objects into one.
-
-```
-
-const objectOne = {hello: "🤪"}
-const objectTwo = {world: "🐻"}
-const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}
-console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }
-const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}
-objectFour.laugh() // 😂😂😂😂😂
-
-```
+> `const objectOne = {hello: "🤪"}`
+> `const objectTwo = {world: "🐻"}`
+> `const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}`
+> `console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }`
+> `const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}`
+> `objectFour.laugh() // 😂😂😂😂😂`
 
 #### In the [video](https://www.youtube.com/watch?v=c05OL7XbwXU&ab_channel=SteveGriffith-Prof3ssorSt3v3), what is the first step that the developer does to pass functions between components?
 
