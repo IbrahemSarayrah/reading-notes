@@ -14,22 +14,22 @@ const listItems = numbers.map((number) =>
 
 ```
 
-* we loop through the **numbers** array using the JavaScript **map()** function. We return a `<li>` element for 
+* we loop through the **numbers** array using the JavaScript **map()** function. We return a `<li>` element for
 each item. and we assign the resulting array of elements to listItems.
 
 * **Each list item needs a unique key .**
 
-* **key** : is a special string attribute you need to include when creating lists of elements, and 
+* **key** : is a special string attribute you need to include when creating lists of elements, and
 the best way to pick a key is to use a string that uniquely identifies a list item among its siblings.
 
 #### What is the purpose of a key?
 
-* **Keys** help **React** identify which items have changed, are added, or are removed. Keys should be given to the elements 
+* **Keys** help **React** identify which items have changed, are added, or are removed. Keys should be given to the elements
 inside the array to give the elements a stable identity.
 
 #### What is the spread operator?
 
-* The spread operator is a useful and quick syntax for adding items to arrays, combining arrays or objects, and spreading an 
+* The spread operator is a useful and quick syntax for adding items to arrays, combining arrays or objects, and spreading an
 array out into a function’s arguments.
 
 #### List 4 things that the spread operator can do.
