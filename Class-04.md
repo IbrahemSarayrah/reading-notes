@@ -18,7 +18,7 @@ form, and the input form element whose value is controlled by React is called a 
 * we use the ternary operator to as a shorthand way for writing an if-else statement thats will make the the if-else statement
 more simplify and makes the code easier to read.
 
-#### Rewrite the following statement using a ternary statement:
+#### Rewrite the following statement using a ternary statement
 
 ```
   if(x===y){
