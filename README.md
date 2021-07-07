@@ -10,7 +10,7 @@ ___
 
 | read        | link |
 | ----------- | ----------- |
-| growth      | [growth mindet](GrowthMindset.md)   |
+| growth      | [growth mindet](GrowthMindset.md) |
 | Read01      | [Read01](Read01.md)      |
 | Read02      | [Read02](Read02.md)      |
 | Read03      | [Read03](Read03.md)      |
@@ -20,7 +20,6 @@ ___
 | Read06      | [Read06](Read06.md)      |
 | Read07      | [Read07](Read07.md)      |
 | Read09      | [Read09](Read09.md)      |
-
 
 ___
 
@@ -44,8 +43,6 @@ ___
 |   Class14a  | [Class14a](Class14a.md)  |
 |   Class14b  | [Class14b](Class14b.md)  |
 
-
-
 ___
 
 ## *Code 301 - Intermediate Software Development*
@@ -61,7 +58,7 @@ ___
 |   Class-07   | [Link](Class-07.md) |
 |   Class-08   | [Link](Class-08.md) |
 |   Class-09   | [Link](Class-09.md) |
-|   Class-10   | [Link]()    |
+|   Class-10   | [Link](Class-10.md) |
 |   Class-11   | [Link]()    |
 |   Class-12   | [Link]()    |
 |   Class-13   | [Link]()    |
