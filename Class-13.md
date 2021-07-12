@@ -14,7 +14,7 @@
 
 #### What is a status code 202?
 
-* This code tells the client that the request was valid, but its processing will finish sometime in the future, and often used for asynchronous processing
+* This code tells the client that the request was valid, but its processing will finish sometime in the future, and often used for asynchronous processing.
 
 #### What is a status code 308?
 
