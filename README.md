@@ -61,6 +61,6 @@ ___
 |   Class-10   | [Link](Class-10.md) |
 |   Class-11   | [Link](Class-11.md) |
 |   Class-12   | [Link](Class-12.md) |
-|   Class-13   | [Link]()    |
+|   Class-13   | [Link](Class-13.md) |
 |   Class-14   | [Link]()    |
 |   Class-15   | [Link]()    |
