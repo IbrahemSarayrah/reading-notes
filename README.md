@@ -70,8 +70,8 @@ ___
 
 | read         | link   |
 | -----------  | ----------- |
-|   Class   | [Link]() |
-|   Class   | [Link]() |
+|   Pre-Work   | [Link](reading-notes-401/pre-work.md) |
+|   Class-01   | [Link](reading-notes-401/Class-01.md) |
 |   Class   | [Link]() |
 |   Class   | [Link]() |
 |   Class   | [Link]() |
