@@ -1,4 +1,4 @@
-# reading-notes-401/Class-04.md
+# Readings: Data Modeling
 
 ## Name 3 advantages to Test Driven Development
 
