@@ -43,3 +43,5 @@
 * Continuous Integration (CI): is the practice of automating the integration of code changes from multiple contributors into a single software project.
 
 * REST: is an architectural style that handles the client-server relationship
+
+* Data Model: the process of visualizing and representing data for storage in a data warehouse. The model is a conceptual representation of the data, the relationships between data, and the rules. The modeling itself can include diagrams, symbols, or text to represent data and the way that it interrelates.
