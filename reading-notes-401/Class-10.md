@@ -1,4 +1,4 @@
-# reading-notes-401/Class-10.md
+# Stacks and Queues
 
 ## What is a Stack
 
