@@ -1,5 +1,32 @@
 # Readings: Event Driven Applications
 
+## Event Driven Applications
+
+* Event-Driven Programming is a logical pattern that we can choose to confine our programming within to avoid issues of complexity and collision.
+
+* Every time you interact with a webpage through it’s user interface, an event is happening. When you `click` a button a click event is triggered. When you press a key a `keydown` event is triggered. These events have associated functions that, when triggered, are executed to make a change to the user interface in some way.
+
+* Event-Driven Programming makes use of the following concepts:
+
+>
+> An Event Handler is a callback function that will be called when an event is triggered.
+>
+> A Main Loop listens for event triggers and calls the associated event handler for that event.
+>
+
+* EventEmitter :
+
+>
+> Node.js natively provides us with a useful module called EventEmitter that allows us to get started incorporating Event-Driven Programming
+>
+> We access the EventEmitter class through the `events` module. Once imported we’ll need to create a new object from the class to start using it.
+>
+
+```
+const EventEmitter = require('events').EventEmitter;
+const myEventEmitter = new EventEmitter;
+```
+
 ## Why is access control important?
 
 * Access controls limit access to information and information processing systems. When implemented effectively, they mitigate the risk of information being accessed without the appropriate authorisation, unlawfully and the risk of a data breach.
